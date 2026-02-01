@@ -57,7 +57,7 @@ button {
 }
 
 body {
-    background-color: deeppink;
+    background-color: #DFC5FE;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -71,7 +71,7 @@ body {
 }
 
 #yessir:hover {
-    background-color: hotpink;
+    background-color: #FBAED2;
 }
 
 p{
